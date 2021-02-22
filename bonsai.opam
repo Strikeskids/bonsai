@@ -20,6 +20,7 @@ depends: [
   "expect_test_helpers_core"
   "incr_dom"
   "incr_map"
+  "ocaml-embed-file"
   "patdiff"
   "ppx_jane"
   "ppx_pattern_bind"
